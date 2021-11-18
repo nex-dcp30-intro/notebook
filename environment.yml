@@ -3,7 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyterlab
   - python
+  - scipy
   - numpy
   - matplotlib
   - pandas
@@ -15,5 +17,8 @@ dependencies:
   - xarray
   - openblas==0.2.19
   - netcdf4==1.5.1
-  - jupyterlab
+  - seawater
+  - iris
+  - folium
+  - palettable
 
