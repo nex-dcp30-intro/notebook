@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyterlab
   - python
   - scipy
   - numpy
@@ -21,4 +20,5 @@ dependencies:
   - iris
   - folium
   - palettable
+  - metpy
 
