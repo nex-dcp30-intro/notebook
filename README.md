@@ -29,7 +29,5 @@ Information for final project:
   - Edits reflecting student and instructor feedback can be made until due date
 
 
-```
-launch with myBinder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
-```
+
