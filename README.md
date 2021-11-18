@@ -28,6 +28,7 @@ Information for final project:
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
