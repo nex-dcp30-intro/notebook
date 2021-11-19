@@ -1,0 +1,15 @@
+name: nex
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - geopandas
+  - metpy
+  - plotly
+  - cartopy
+  - pydap
+  - netcdf4
