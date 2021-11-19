@@ -18,5 +18,4 @@ Below is a link to the Binder Environment for this project. It will allow you to
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
