@@ -1,32 +1,21 @@
-# EDS220_Fall2021_FinalProjInfo
-### Information needed for HW3 and final project for EDS 220, Fall 2021
+# EDS220 Fall2021 Final Project
 
-This repository contains useful template information for working on assignments for EDS 220 Remote Sensing and Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+Our project uses the NASA Earth Exchange (NEX) Downscaled Climate Projections (NEX-DCP30) dataset for the conterminous United States. The modelled data projections are available for four greenhouse gas emissions scenarios known as Representative Concentration Pathways(RCPs) labelled after the range of radiative forcing values in the year 2100 (2.6, 4.5, 6, and 8.5 W/m2). Essentially we will walk through data extraction for the Santa Barbara area for this dataset and run through some example use cases for it.
+
+Authors:
+- Desik Somasundaram, UC Santa Barbara (desik@bren.ucsb.edu ) 
+- Daniel Kerstan, UC Santa Barbara (danielkerstan@bren.ucsb.edu ) 
+- Joe DeCesaro, UC Santa Barbara (jdecesaro@bren.ucsb.edu ) 
 
 Contents:
-- HW3_template.ipynb: Template Jupyter notebook for use in Homework 3 and final project
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+- environment.yml
+- nex-dcp30-intro-tutorial.ipynb
+- README.md
+- .gitignore
+- Folder: tl_2019_06083_faces
+- Folder: .ipynb_checkpoints
 
-Information for Homework 3:
-- Due date = **Friday, November 19**
-- Deliverables:
-   - Completed Jupyter notebook template appropriate for your group 
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
-
-
-Information for final project:
-- Presentation dates: **Nov 22; Nov 29; Dec 1**
-- Final writeup hand-in date: **Dec 8**
-- Deliverables (for in-class presentation):
-  - Jupyter notebook edited to reflect instructor feedback
-  - Empty notebook (all code commands removed; comments and markdown retained) to facilitate in-class code-alongs
-  - Binder environment compiled to allow others to run code easily
-  - Group-led code-along exercise on assigned presentation date
-
-- Deliverables (for final writeup):
-  - Jupyter notebook, supporting data files, Binder environment, and README in repo
-  - Edits reflecting student and instructor feedback can be made until due date
+Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
