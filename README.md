@@ -12,12 +12,10 @@ Contents:
 - nex-dcp30-intro-tutorial.ipynb
 - README.md
 - .gitignore
-- Folder: tl_2019_06083_faces
-- Folder: .ipynb_checkpoints
+- Folder: tl_2019_06083_faces (Santa Barbara County shp)
 
 Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nex-dcp30-intro/notebook/main)
 
