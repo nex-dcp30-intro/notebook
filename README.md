@@ -10,6 +10,7 @@ Authors:
 Contents:
 - environment.yml
 - nex-dcp30-intro-tutorial.ipynb
+- nex-dcp30-intro-tutorial-blank.ipynb
 - README.md
 - .gitignore
 - Folder: tl_2019_06083_faces (Santa Barbara County shp)
