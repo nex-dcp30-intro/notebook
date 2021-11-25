@@ -1,6 +1,7 @@
 # EDS220 Fall2021 Final Project
 
-Our project uses the NASA Earth Exchange (NEX) Downscaled Climate Projections (NEX-DCP30) dataset for the conterminous United States. The modelled data projections are available for four greenhouse gas emissions scenarios known as Representative Concentration Pathways(RCPs) labelled after the range of radiative forcing values in the year 2100 (2.6, 4.5, 6, and 8.5 W/m2). Essentially we will walk through data extraction for the Santa Barbara area for this dataset and run through some example use cases for it.
+Our project uses the NASA Earth Exchange (NEX) Downscaled Climate Projections (NEX-DCP30) dataset for the conterminous United States. The modelled data projections are available for four greenhouse gas emissions scenarios known as Representative Concentration Pathways(RCPs) labelled after the range of radiative forcing values in the year 2100 (2.6, 4.5, 6, and 8.5 W/m2). Essentially we will walk through data extraction for the Santa Barbara area for this dataset and run through some example use cases for it. With the dataset only including Temperature and Precipitation, these were chosen as the variables of interest.
+Visit for more details: https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30 
 
 Authors:
 - Desik Somasundaram, UC Santa Barbara (desik@bren.ucsb.edu ) 
